@@ -1,7 +1,7 @@
 # MCMC-Metropolis-Hastings
 Resolution for a linear model using a Metropolis Hastings (MCMC) algorithm
 
-** Detailed information about the program, including instructions and the results of the analysis -> ** (report.pdf)
+## Detailed information about the program, including instructions and the results of the analysis -> [report.pdf](report.pdf)
 
 ### What does the program do?
 - Define the model, the likelihood and the prior
